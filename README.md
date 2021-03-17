@@ -5,8 +5,8 @@ O sistema funciona na base do w a s d
 using UnityEngine;
 using System.Collections;
 
-//Classe move.
-public class move : MonoBehaviour {
+//Classe MOVIMENTO.
+public class MOVIMENTO : MonoBehaviour {
 
 	float _velocidadeFrente;
 	float _velocidadeTras;
